@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vidit Shah's first CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,23 +17,21 @@ Syntax highlighted code block
 
 # Vidit Shah 
 ## Purdue University
-### CS 193
+### Purdue CS 193 rocks!
 
 - Bulleted
 - List
 
-- Apple
-- Orange
-- Mango
-- Pineapple
+- Easy to learn
+- Interesting
+- Fun
 
 1. Numbered
 2. List
 
-1. Apple
-2. Orange
-3. Mango
-4. Pineapple
+1. Easy to learn
+2. Interesting
+3. Fun
 
 **Bold** and _Italic_ and `Code` text
 **I am a student**
