@@ -15,13 +15,30 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# Vidit Shah 
+## Purdue University
+### CS 193
+
 - Bulleted
 - List
+
+- Apple
+- Orange
+- Mango
+- Pineapple
 
 1. Numbered
 2. List
 
+1. Apple
+2. Orange
+3. Mango
+4. Pineapple
+
 **Bold** and _Italic_ and `Code` text
+**I am a student**
+_I am a student_ 
+'int a;'
 
 [Link](url) and ![Image](src)
 ```
